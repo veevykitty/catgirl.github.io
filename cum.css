@@ -1,0 +1,32 @@
+#wrapper {
+	overflow: hidden; 
+}
+#first {
+	float:left; 
+}
+#second {
+	float:left; 
+}
+.cumblue {
+	color: #ADD8E6;
+	line-height: 0;
+	text-decoration: none;
+}
+.cummwhite {
+	color: white;
+}
+.cumwhite {
+	color: white;
+	line-height: 0;
+}
+body {
+	background: #292929;
+}
+
+a:hover {
+  color: #e3e3e3;}
+
+.ascii-art {
+    font-family: monospace;
+    white-space: pre;
+}
