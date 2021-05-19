@@ -32,9 +32,9 @@ body {
   border: 1px solid;
   padding: 10px;
   box-shadow: 2px 3px;
-  color: #a076d6;
+  color: #a076d6; 
 }
 
 p:hover {
-	text-shadow: 3px 1px #7c588a;
+	text-shadow: 3px 1px #de92a3;
 }
