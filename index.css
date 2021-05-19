@@ -1,0 +1,29 @@
+
+body {
+  background-image: url("https://i.pinimg.com/originals/8d/bb/58/8dbb588536397d8571c934332ff1dffc.jpg");
+  background-color: #cccccc;
+}
+@font-face {
+   font-family: sex;
+   src: url(Eight-Bit-Dragon.woff);
+}
+* {
+   font-family: sex;
+}
+.center {
+  text-align: center;
+  color: white;
+  font-size: 40px;
+  
+}
+.gaming {
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  text-decoration: none;
+}
+
+a:hover {
+	text-shadow: 3px 1px #e279f2;
+	
+}
